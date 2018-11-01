@@ -1,0 +1,1 @@
+//Was trying to use defines to make loadout building easier, especially referencing multiple camos etc, but because it's in string format it's difficult to have a macro. This is currently useless.
